@@ -1,1 +1,2 @@
 # simple-info-site
+This is a simple site which displays information about me, Caleb Lin. It is nothing much to look at, and was mostly implemented as part of my efforts to learn Node.js. It returns HTML depending on the URL you request.
